@@ -24,3 +24,13 @@ Once everything is set up, you can run the code and it will create a folder of p
 ## Examples
 
 See the examples folder for what the output will look like. I would take 1 million years to upload all of the cards onto GitHub, and then I'd get done and want to edit them again. So if you have a creative way for me to display them where I can continually update them, let me know. Otherwise, try it out for yourself!
+
+
+### To Do List (for me) 
+Next steps: 
+1. Figure out a way better font than Arial
+2. Standardize "Date" and "Location" format
+3. Clean up data and continue to evolve content
+4. Add different colored cards to indicate the period/era (Yellow for early church, Red for Medieval, etc.)
+5. Add images of the Characters to each card. This will take forever...
+6. Add an "Importance" rating. There are some who are way more important than others. No offense. 
