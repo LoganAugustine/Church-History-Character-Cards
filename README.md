@@ -19,6 +19,8 @@ The Python script was largely created usign AI (I'm proficient in Python, but ha
 2. card_background.png
 The card background is also generated using AI, but you can pick any background you'd like. In the future, I'd love to add famous images of theologians to these cards, but I don't have time for that now!
 
+The unfortunate (but convienient) fact is that each of these cards is essentially hard-coded, with the text being literally drawn onto the .png. This works as long as you keep your cards in the same folder, and the script will simply write over it. I have no clue if this is the best way, but I'm a simple man! 
+
 Once everything is set up, you can run the code and it will create a folder of png's for each character in your directory! Hope you enjoy!
 
 ## Examples
