@@ -17,6 +17,7 @@ I still update these databases periodically (they are my notes in class, after a
 The Python script was largely created usign AI (I'm proficient in Python, but had never used the Pillow Package for .png drawing. You can judge me all you want.) So first off, make sure to install the Pillow Package (PIL). The code calls 2 files: 
 1. Character_Cards_Data.csv (mentioned above)
 2. card_background.png
+
 The card background is also generated using AI, but you can pick any background you'd like. In the future, I'd love to add famous images of theologians to these cards, but I don't have time for that now!
 
 The unfortunate (but convienient) fact is that each of these cards is essentially hard-coded, with the text being literally drawn onto the .png. This works as long as you keep your cards in the same folder, and the script will simply write over it. I have no clue if this is the best way, but I'm a simple man! 
