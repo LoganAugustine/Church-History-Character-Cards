@@ -20,3 +20,7 @@ The Python script was largely created usign AI (I'm proficient in Python, but ha
 The card background is also generated using AI, but you can pick any background you'd like. In the future, I'd love to add famous images of theologians to these cards, but I don't have time for that now!
 
 Once everything is set up, you can run the code and it will create a folder of png's for each character in your directory! Hope you enjoy!
+
+## Examples
+
+See the examples folder for what the output will look like. I would take 1 million years to upload all of the cards onto GitHub, and then I'd get done and want to edit them again. So if you have a creative way for me to display them where I can continually update them, let me know. Otherwise, try it out for yourself!
