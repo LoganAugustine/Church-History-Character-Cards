@@ -6,8 +6,8 @@ import os
 
 # --- 1. SETUP PATHS ---
 TEMPLATE_PATH = "card_background.png" 
-OUTPUT_FOLDER = "Church_Cards"
-CSV_FILE = "People_Profiles.csv"
+OUTPUT_FOLDER = "Character_Cards"
+CSV_FILE = "Character_Cards_Data.csv"
 
 if not os.path.exists(OUTPUT_FOLDER):
     os.makedirs(OUTPUT_FOLDER)
